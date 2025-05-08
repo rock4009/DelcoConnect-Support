@@ -1,4 +1,4 @@
-# LastUpdated: 2025-05-07T15:00:00Z
+# LastUpdated: 2025-05-09T15:00:00Z
 town;parentCategory;subCategory;name;website;phone;address
 Aldan;Food & Drink;Asian Food;Golden Place Chinese Restaurant;N/A;(610) 259-5988;500 E Providence Rd, Ste 2, Aldan, PA 19018
 Aldan;Food & Drink;Sandwich Shops;Geo's Steaks;https://www.geossteaks.com/;(484) 466-3708;500 E Providence Rd, Aldan, PA 19018
@@ -14,7 +14,7 @@ Aldan;Outdoor Activities;Parks;Duffy Field;https://www.aldan-boro.org/parks/page
 Aldan;Outdoor Activities;Parks;Penn Pines Park;N/A;N/A;770 E Providence Rd, Aldan, PA 19018
 Aldan;Outdoor Activities;Pools;Aldan Swim Club;http://aldanswimclub.com;(610) 622-0995;304 N Elm Ave, Aldan, PA 19018
 Aldan;Services;Clock Repair;Tick Tock Clock Shop;http://www.ticktockclockshop.com;(610) 259-2787;149 W Maryland Ave, Aldan, PA 19018
-Aldan;Services;Dry Cleaner;Lee's Rex Cleaners;http://aldan-pa.pennsylvania-pages.com/lees-rex-cleaners.html;(610) 623-9744;500 E Providence Rd, Aldan, PA 19018
+Aldan;Services;Dry Cleaners;Lee's Rex Cleaners;http://aldan-pa.pennsylvania-pages.com/lees-rex-cleaners.html;(610) 623-9744;500 E Providence Rd, Aldan, PA 19018
 Aldan;Services;Gas Stations;Gulf;https://www.gulfoil.com;(610) 623-6505;417 E Providence Rd, Aldan, PA 19018
 Aldan;Services;Gas Stations;Lukoil;http://www.lukoilamericas.com;(610) 623-6505;417 E Providence Rd, Aldan, PA 19018
 Aldan;Services;Gas Stations;Sunoco;https://www.sunoco.com/locations/store/424-e-providence-rd-aldan-pa-0557650900;(610) 622-2962;424 E Providence Rd, Aldan, PA 19018
@@ -324,7 +324,7 @@ Ardmore;Shopping;Toy Stores;pucciManuli;http://www.puccimanuli.com/;(610) 649-29
 Ardmore;Shopping;Toy Stores;Puns Toys;http://www.punstoys.com;(484) 413-2561;38 W Lancaster Ave, Ardmore, PA 19003
 Ardmore;Shopping;Toy Stores;Target;https://www.target.com/sl/wynnewood/3389;(610) 228-2731;250 E Lancaster Ave, Ardmore, PA 19096
 Ardmore;Shopping;Wine & Spirits;Fine Wine & Good Spirits;http://www.finewineandgoodspirits.com;(610) 645-5010;62 Greenfield Ave, Ardmore, PA 19003
-Ardmore;Shopping ;Beauty Supply Stores;Bluemercury;https://stores.bluemercury.com/pa/ardmore/34773/;(610) 642-5400;42 St James Pl, Ardmore, PA 19003
+Ardmore;Shopping;Beauty Supply Stores;Bluemercury;https://stores.bluemercury.com/pa/ardmore/34773/;(610) 642-5400;42 St James Pl, Ardmore, PA 19003
 Aston;Food & Drink;Asian Food;Lucky Wok Chinese Restaurant;http://www.luckywokaston.com;(610) 485-9252;4425 Pennell Rd, Aston, PA 19014
 Aston;Food & Drink;Asian Food;New Aston Palace;N/A;(610) 485-8018;3476 Concord Rd, Aston, PA 19014
 Aston;Food & Drink;Breweries;Four Fingers Brewery;https://www.facebook.com/FourFingersBeer/;(610) 241-1212;4550 Aston Mills Rd, Aston, PA 19014
@@ -2340,7 +2340,6 @@ Havertown;Food & Drink;Distilleries;Four Birds Distilling Co.;https://www.fourbi
 Havertown;Food & Drink;Fast Food;Burger King;https://locations.bk.com/pa/havertown/233-west-chester-pike.html;(610) 446-4870;233 W Chester Pike, Havertown, PA 19083
 Havertown;Food & Drink;Fast Food;Espresso;http://www.espresso345.com;(484) 668-0255;345 Brookline Blvd, Havertown, PA 19083
 Havertown;Food & Drink;Fast Food;McDonald's;https://www.mcdonalds.com/us/en-us/location/pa/havertown/1232-westchester-pike/10749.html;(610) 446-5414;1232 W Chester Pike, Havertown, PA 19083
-Havertown;Food & Drink;Food Trucks;Havertown Auto Services;http://havertownautoservices.com;(610) 446-9800;1301 W Chester Pike, Havertown, PA 19083
 Havertown;Food & Drink;Ice Cream Shops;Koffmeyer's Old Fashioned Cookies & Ice Cream;http://www.koffmeyerscookies.com/;(484) 454-3526;7 Brookline Blvd, Havertown, PA 19083
 Havertown;Food & Drink;Ice Cream Shops;Pop's Homemade Water Ice;http://www.popsice.com/;(610) 789-7677;150 W Eagle Rd, Havertown, PA 19083
 Havertown;Food & Drink;Ice Cream Shops;Rita's;https://www.ritasice.com/location/ritas-of-havertown-pa/;(610) 789-8808;55 W Eagle Rd, Havertown, PA 19083
@@ -2500,7 +2499,7 @@ Havertown;Services;Child Care;The Llanerch Day School;N/A;(610) 446-0143;223 E P
 Havertown;Services;Computer Repair;All Brands Appliance Service & Computer Repair;N/A;(610) 299-9406;2517 Hirst Terr, Havertown, PA 19083
 Havertown;Services;Computer Repair;CNA Computer Repair;http://www.cnacomputerrepairs.com;(610) 624-3774;921 E Darby Rd, Havertown, PA 19083
 Havertown;Services;Computer Repair;Computerologist;N/A;(610) 324-7504;341 Windsor Park Ln, Havertown, PA 19083
-Havertown;Services;Computer Repair;Havertown Auto Services;http://havertownautoservices.com;(610) 446-9800;1301 W Chester Pike, Havertown, PA 19083
+Havertown;Services;Vehicle Services;Havertown Auto Services;http://havertownautoservices.com;(610) 446-9800;1301 W Chester Pike, Havertown, PA 19083
 Havertown;Services;Computer Repair;HAVERTOWN AUTOMOTIVE;https://havertownauto.com;(610) 789-7034;819 W Chester Pike, Havertown, PA 19083
 Havertown;Services;Computer Repair;Havertown Phone Computer Repair;https://havertowncomputerrepair.com;(610) 449-3037;11 N Eagle Rd, Havertown, PA 19083
 Havertown;Services;Computer Repair;Integrated Modular Systems;http://www.imsimed.com;(610) 789-7000;2500 W Township Line Rd, Havertown, PA 19083
