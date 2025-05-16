@@ -1,4 +1,4 @@
-# LastUpdated: 2025-05-13T15:00:00Z
+# LastUpdated: 2025-05-15T15:00:00Z
 town;parentCategory;subCategory;name;website;phone;address
 Aldan;Food & Drink;Asian Food;Golden Place Chinese Restaurant;N/A;(610) 259-5988;500 E Providence Rd, Ste 2, Aldan, PA 19018
 Aldan;Food & Drink;Indian Food;Flavor of India;https://flavorofindiamenu.com;(610) 783-3955;500 E Providence Rd, Aldan, PA 19018
@@ -135,7 +135,7 @@ Ardmore;Indoor Activities;Dance Studios;Dancesport Academy;https://dancesportpa.
 Ardmore;Indoor Activities;Dance Studios;Vivid Ballroom;https://www.vividballroom.com/;(610) 945-4954;2533 Haverford Rd, Ardmore, PA 19003
 Ardmore;Indoor Activities;Movie Theaters;7 Wonders Cinema;https://www.7wonders.com;(215) 645-2031;10 E Athens Ave, Unit 205, Ardmore, PA 19003
 Ardmore;Indoor Activities;Music Venues;Ardmore Music Hall;https://www.ardmoremusic.com/;(610) 649-8389;23 E Lancaster Ave, Ardmore, PA 19003
-Ardmore;Indoor Activities;Playgrounds;Lulu's Casita;http://luluscasita.com;(610) 642-3623;6 Cricket Ave, Ardmore, PA 19003
+Ardmore;Indoor Activities;Indoor Playgrounds;Lulu's Casita;http://luluscasita.com;(610) 642-3623;6 Cricket Ave, Ardmore, PA 19003
 Ardmore;Indoor Activities;Theaters;Narberth Community Theatre;https://mynct.org/;N/A;415 E Athens Ave, Ardmore, PA 19003
 Ardmore;Institutions;Cemetaries;Ardmore United Methodist Church Memorial Garden;N/A;N/A;200 Argyle Rd, Ardmore, PA 19003
 Ardmore;Institutions;Cemetaries;Saint Colman's Roman Catholic Church Grounds;https://stcolmanardmore.com/;N/A;11 Simpson Rd, Ardmore, PA 19003
@@ -343,7 +343,7 @@ Ardmore;Shopping;Thrift Stores;Petunia's Consignment Boutique;http://www.petunia
 Ardmore;Shopping;Toy Stores;pucciManuli;http://www.puccimanuli.com/;(610) 649-2909;2 E Lancaster Ave, Ardmore, PA 19003
 Ardmore;Shopping;Toy Stores;Puns Toys;http://www.punstoys.com;(484) 413-2561;38 W Lancaster Ave, Ardmore, PA 19003
 Ardmore;Shopping;Wine & Spirits;Fine Wine & Good Spirits;http://www.finewineandgoodspirits.com;(610) 645-5010;62 Greenfield Ave, Ardmore, PA 19003
-Ardmore;Shopping ;Beauty Supply Stores;Bluemercury;https://stores.bluemercury.com/pa/ardmore/34773/;(610) 642-5400;42 St James Pl, Ardmore, PA 19003
+Ardmore;Shopping;Beauty Supply Stores;Bluemercury;https://stores.bluemercury.com/pa/ardmore/34773/;(610) 642-5400;42 St James Pl, Ardmore, PA 19003
 Aston;Food & Drink;Asian Food;Lucky Wok Chinese Restaurant;http://www.luckywokaston.com;(610) 485-9252;4425 Pennell Rd, Aston, PA 19014
 Aston;Food & Drink;Asian Food;New Aston Palace;N/A;(610) 485-8018;3476 Concord Rd, Aston, PA 19014
 Aston;Food & Drink;Bars;Gridiron Pub;https://gridironpub.com;(484) 483-9301;506 Bethel Ave, Aston, PA 19014
@@ -358,7 +358,7 @@ Aston;Food & Drink;Pizza;Aston Pizza Company;https://www.astonpizzarestaurant.co
 Aston;Food & Drink;Pizza;Cocco's Pizza;http://www.coccosaston.com;(610) 494-4797;2430 Dutton Mill Rd, Aston, PA 19014
 Aston;Food & Drink;Pizza;Seasons Pizza;https://www.seasonspizza.com/stores/aston;(610) 485-1000;2755 Weir Rd, Aston, PA 19014
 Aston;Food & Drink;Pizza;Tom's Pizza;https://www.toms-pizza.com;(610) 497-5775;3223 Concord Rd, Aston, PA 19014
-Aston;Food & Drink;Saloons;Sundance Saloon;https://www.facebook.com/sundancesaloonaston/;(610) 494-9725;3531 Concord Rd, Aston, PA 19014
+Aston;Food & Drink;Bars;Sundance Saloon;https://www.facebook.com/sundancesaloonaston/;(610) 494-9725;3531 Concord Rd, Aston, PA 19014
 Aston;Food & Drink;Seafood;Wellingtons Best Foods;http://www.wellingtonsbestfoods.com;(610) 361-8100;35 Mt Pleasant Dr, Aston, PA 19014
 Aston;Food & Drink;Soft Pretzels;Pretzel Boys;https://www.facebook.com/pretzelboysAston/;(610) 485-5755;4756 Pennell Rd, Aston, PA 19014
 Aston;Food & Drink;Water Ice;Tyler Water Ice;N/A;(610) 405-0855;1311 Cherry Tree Rd, Aston, PA 19014
@@ -389,7 +389,7 @@ Aston;Services;Storage Facilities;Heritage Moving Systems Aston;https://firpoher
 Aston;Services;Tattoo Parlors;Bonedaddy's Tattoo;http://bonedaddytattoo.com;(484) 494-6032;4932 Pennell Rd, Aston, PA 19014
 Aston;Services;Travel Agencies;Anna's Travel Shop;http://annastravelshop.agentstudio.com;(610) 358-2563;40 Dogwood Ln, Aston, PA 19014
 Aston;Shopping;Butcher Shops;Wellingtons Best Foods;http://www.wellingtonsbestfoods.com;(610) 361-8100;35 Mt Pleasant Dr, Aston, PA 19014
-Aston;Shopping;Florists;Blair's Florist;http://www.blairsflorist.com;(610) 494-1033;3001 Concord Rd, Aston, PA 19014
+Aston;Services;Florists;Blair's Florist;http://www.blairsflorist.com;(610) 494-1033;3001 Concord Rd, Aston, PA 19014
 Aston;Shopping;Furniture Stores;Rick's Sheds;http://www.rickssheds.com;(610) 494-7433;2760 Concord Rd, Aston, PA 19014
 Aston;Shopping;Gift Shops;Devour Desserts Delco;https://devourdesserts.com;(610) 497-1571;4928 Pennell Rd, Aston, PA 19014
 Aston;Shopping;Hardware Stores;F.W. Webb Company;https://www.fwwebb.com/locations/branch.php?st=PA&city=Aston;(484) 483-4137;2939 Dutton Mill Rd, Aston, PA 19014
@@ -585,7 +585,7 @@ Brookhaven;Shopping;Beauty Supply Stores;Walgreens;https://www.walgreens.com/loc
 Brookhaven;Shopping;Beer Distributors;Super Beverage Warehouse;https://www.facebook.com/largestbeerstoreindelco/;(610) 876-8000;5042 Edgmont Avenue Brookhaven, PA 19015
 Brookhaven;Shopping;Convenience Stores;Swiss Farms;http://www.swissfarms.com;(800) 726-3276;4501 Edgmont Ave, Brookhaven, PA 19015
 Brookhaven;Shopping;Convenience Stores;Wawa;https://www.wawa.com/store/8042/ma/pa-brookhaven-4703-edgmont-avenue;(610) 872-5183;4703 Edgmont Ave, Brookhaven, PA 19015
-Brookhaven;Shopping;Florists;Aston Florist;N/A;N/A;3 E Dutton Mill Rd, Ste B, Media, PA 19063
+Brookhaven;Services;Florists;Aston Florist;N/A;N/A;3 E Dutton Mill Rd, Ste B, Media, PA 19063
 Brookhaven;Shopping;Hardware Stores;Lowe's;https://www.lowes.com/store/PA-Brookhaven/3277;(610) 990-8186;5005 Edgmont Ave, Brookhaven, PA 19015
 Brookhaven;Shopping;Hardware Stores;Sherwin-Williams Paint Store;https://www.sherwin-williams.com/store-locator/paint-store/brookhaven/pa/705088;(610) 874-6540;3428 Edgmont Ave, Brookhaven, PA 19015
 Brookhaven;Shopping;Jewelry Stores;Shai Town;N/A;(484) 768-6911;4100 Edgmont Ave, Brookhaven, PA 19015
@@ -807,7 +807,7 @@ Broomall;Shopping;Discount Stores;Shopper's Choice;N/A;(484) 466-2307;2581 W Che
 Broomall;Shopping;Electronics Stores;General Highway Products;http://www.generalhighwayproducts.com;(610) 328-4040;878 Sussex Blvd, Broomall, PA 19008
 Broomall;Shopping;Electronics Stores;Oxford Computer;N/A;(610) 353-0777;2725 W Chester Pike, Broomall, PA 19008
 Broomall;Shopping;Electronics Stores;T-Mobile Authorized Retailer;https://www.t-mobile.com/stores/bd/t-mobile-broomall-pa-19008-797d;(610) 356-1928;1991 Sproul Rd, Spc 38B, Broomall, PA 19008
-Broomall;Shopping;Florists;Leary's Florist;https://www.learysflorist.com;(610) 356-1000;2620 W Chester Pike, Broomall, PA 19008
+Broomall;Services;Florists;Leary's Florist;https://www.learysflorist.com;(610) 356-1000;2620 W Chester Pike, Broomall, PA 19008
 Broomall;Shopping;Food Stores;ACME;https://local.acmemarkets.com/pa/broomall/1991-n-sproul-rd.html;(610) 325-2880;1991 Sproul Rd, Broomall, PA 19008
 Broomall;Shopping;Food Stores;Amazon Fresh;http://www.amazon.com/freshstores;(800) 250-0668;2940 Springfield Rd, Broomall, PA 19008
 Broomall;Shopping;Food Stores;Euro Market;https://www.facebook.com/webringyoueurope;(610) 359-9021;26 S Sproul Rd, Broomall, PA 19008
@@ -929,7 +929,7 @@ Bryn Mawr;Health;Weight Loss;Functional Wellness;https://www.wellness-doctors.co
 Bryn Mawr;Health;Weight Loss;MD Weight Loss & Beyond;http://www.mdweightlossandbeyond.org;(484) 367-7902;1084 E Lancaster Ave, Bryn Mawr, PA 19010
 Bryn Mawr;Indoor Activities;Community Centers;Bryn Mawr Community Center;N/A;N/A;9 S Bryn Mawr Ave, Bryn Mawr, PA 19010
 Bryn Mawr;Indoor Activities;Movie Theaters;Bryn Mawr Film Institute;http://www.brynmawrfilm.org/;(610) 527-9898;824 W Lancaster Ave, Bryn Mawr, PA 19010
-Bryn Mawr;Indoor Activities;Pools;Paddle Pool USA;N/A;(610) 527-2200;931 E Haverford Rd, Bryn Mawr, PA 19010
+Bryn Mawr;Outdoor Activities;Pools;Paddle Pool USA;N/A;(610) 527-2200;931 E Haverford Rd, Bryn Mawr, PA 19010
 Bryn Mawr;Indoor Activities;Theaters;Wolf Performing Arts Center;http://www.wolfperformingartscenter.org;(610) 642-0233;1240 Montrose Ave, Bryn Mawr, PA 19010
 Bryn Mawr;Institutions;Cemetaries;Church of the Redeemer Cemetery;https://www.theredeemer.org/funerals;(610) 525-2486;230 Pennswood Rd, Bryn Mawr, PA 19010
 Bryn Mawr;Institutions;Cemetaries;Episcopal Church of the Good Shepherd Columbarium;N/A;N/A;1116 W Lancaster Ave, Bryn Mawr, PA 19010
@@ -1166,7 +1166,7 @@ Chadds Ford;Services;Storage Facilities;Metro Self Storage;https://www.metrostor
 Chadds Ford;Services;Vehicle Services;Mavis Discount Tire;https://www.mavis.com/locations/chadds-ford-pa?stnum=548;(610) 340-1520;1260 Baltimore Pike, Chadds Ford, PA 19317
 Chadds Ford;Shopping;Beer Distributors;Brewers Outlet;http://brewersoutlet202.com/;(610) 459-8228;257 Wilmington Pike, Chadds Ford, PA 19317
 Chadds Ford;Shopping;Clothes Stores;Gather Vintage Marketplace;https://gathervintagemarketplace.com;N/A;100 Ridge Rd, Chadds Ford, PA 19317
-Chadds Ford;Shopping;Florists;Green Meadows Florist;http://www.greenmeadowsflorist.com;(215) 634-9028;1609 Baltimore Pike, Bldg 600, Chadds Ford, PA 19317
+Chadds Ford;Services;Florists;Green Meadows Florist;http://www.greenmeadowsflorist.com;(215) 634-9028;1609 Baltimore Pike, Bldg 600, Chadds Ford, PA 19317
 Chadds Ford;Shopping;Furniture Stores;Ethan Allen;https://www.ethanallen.com/en_US/store-details?StoreID=408;(610) 358-1111;100 Ridge Rd, Ste 5, Chadds Ford, PA 19317
 Chadds Ford;Shopping;Furniture Stores;Springhouse Furnishings;http://countrycoolcollection.com/index.html;(610) 388-7075;419 Baltimore Pike, Chadds Ford, PA 19317
 Chadds Ford;Shopping;Gift Shops;Brandywine Museum Shop;https://www.brandywinemuseumshop.org;(610) 388-2700;Mill Rd, Chadds Ford, PA 19317
@@ -1394,7 +1394,7 @@ Collingdale;Shopping;Car Dealerships;Bmw Splicing;N/A;(610) 583-9405;330 Pusey A
 Collingdale;Shopping;Clothes Stores;Pieces4Fashion;https://www.facebook.com/p/pieces4fashion-100077176152793/?paipv=0&eav=AfaJLWoAZpxtkZxf3i6NqqEeD6aX0uS38IoEsMOLdWHdC0KkyrxwYxg5R8Fr64QoYdM&_rdr;(215) 578-0671;711 Macdade Blvd, Darby, PA 19023
 Collingdale;Shopping;Clothes Stores;The Salvation Army Family Store and Donation Center;https://satruck.org;(800) 728-7825;66 Chester Pike, Collingdale, PA 19023
 Collingdale;Shopping;Convenience Stores;Wawa;https://www.wawa.com/store/8108/ma/pa-collingdale-910-macdade-blvd;(484) 845-3554;910 Macdade Blvd, Darby, PA 19023
-Collingdale;Shopping;Florists;88 Florist DBA Collingdale Flowers;https://www.collingdaleflowerspa.com/;(610) 583-3200;1001 Macdade Blvd, Darby, PA 19023
+Collingdale;Services;Florists;88 Florist DBA Collingdale Flowers;https://www.collingdaleflowerspa.com/;(610) 583-3200;1001 Macdade Blvd, Darby, PA 19023
 Collingdale;Shopping;Food Stores;ALDI;https://stores.aldi.us/pa/collingdale/1205-macdade-blvd;(855) 955-2534;1205 Macdade Blvd, Darby, PA 19023
 Collingdale;Shopping;Food Stores;Kelly's Kandy;http://www.kellyskandy.com;(610) 461-4676;312 Macdade Blvd, Darby, PA 19023
 Collingdale;Shopping;Food Stores;Snack Up;N/A;(610) 616-0905;901 North St, Darby, PA 19023
@@ -1856,8 +1856,8 @@ Drexel Hill;Shopping;Electronics Stores;Computer Renaissance;http://www.compren.
 Drexel Hill;Shopping;Electronics Stores;Iphillyfixit;https://www.facebook.com/iphillyfixit/;(484) 452-3349;384 Edmonds Ave, Drexel Hill, PA 19026
 Drexel Hill;Shopping;Electronics Stores;MacSensei;http://www.macsensei.com;(610) 734-2222;1250 Township Line Rd, Drexel Hill, PA 19026
 Drexel Hill;Shopping;Electronics Stores;Sigma Parts;https://sigma-parts.com;N/A;609 Morgan Ave, Drexel Hill, PA 19026
-Drexel Hill;Shopping;Florists;Farrell's Florist;http://www.farrellsflorist.com?y_source=1_MjA4OTQ0MzctNDQwLWxvY2F0aW9uLndlYnNpdGU=;(610) 623-2400;421 Burmont Rd, Drexel Hill, PA 19026
-Drexel Hill;Shopping;Florists;Polites Florist;http://www.farrellsflorist.com;(610) 623-2400;421 Burmont Rd, Drexel Hill, PA 19026
+Drexel Hill;Services;Florists;Farrell's Florist;http://www.farrellsflorist.com?y_source=1_MjA4OTQ0MzctNDQwLWxvY2F0aW9uLndlYnNpdGU=;(610) 623-2400;421 Burmont Rd, Drexel Hill, PA 19026
+Drexel Hill;Services;Florists;Polites Florist;http://www.farrellsflorist.com;(610) 623-2400;421 Burmont Rd, Drexel Hill, PA 19026
 Drexel Hill;Shopping;Food Stores;ShopRite;http://www.shoprite.com;(610) 622-1100;5000 State Rd, Drexel Hill, PA 19026
 Drexel Hill;Shopping;Food Stores;Tio Matti;https://tiomattishop.myshopify.com;(267) 822-0696;699 Burmont Rd, Drexel Hill, PA 19026
 Drexel Hill;Shopping;Furniture Stores;Spring House Antiques;N/A;(610) 623-8898;4213 Woodland Ave, Drexel Hill, PA 19026
@@ -2328,7 +2328,7 @@ Glen Mills;Shopping;Convenience Stores;Wawa;https://www.wawa.com/store/198/ma/pa
 Glen Mills;Shopping;Electronics Stores;AT&T;http://get.att.com/pennsylvania/glen-mills/costco-store-1114;(833) 578-1868;700 Evergreen Dr, Glen Mills, PA 19342
 Glen Mills;Shopping;Electronics Stores;AT&T;https://www.att.com/stores/pennsylvania/glen-mills/243455;(610) 431-4300;1731 Wilmington W Chester Pike, Ste C, Glen Mills, PA 19342
 Glen Mills;Shopping;Electronics Stores;uBreakiFix by Asurion;https://www.ubreakifix.com/locations/glenmills;(484) 800-8696;1810 Wilmington W Chester Pike, Glen Mills, PA 19342
-Glen Mills;Shopping;Florists;Country Porch Florist;http://www.countryporchflorist.com;(610) 459-8500;1785 Wilmington Pike, Glen Mills, PA 19342
+Glen Mills;Services;Florists;Country Porch Florist;http://www.countryporchflorist.com;(610) 459-8500;1785 Wilmington Pike, Glen Mills, PA 19342
 Glen Mills;Shopping;Food Stores;ACME Markets;https://local.acmemarkets.com/pa/glen-mills/101-byers-dr.html;(610) 459-2759;101 Byers Dr, Glen Mills, PA 19342
 Glen Mills;Shopping;Food Stores;Herr Foods;http://herrfoods.com;(610) 358-2394;80 Lacrue Ave, Glen Mills, PA 19342
 Glen Mills;Shopping;Food Stores;L SI SUMMIT AT BRANDY WINE;N/A;(610) 558-4245;1786 Wilmington Pike, Glen Mills, PA 19342
@@ -2454,7 +2454,7 @@ Glenolden;Shopping;Discount Stores;Dollar General;https://www.dollargeneral.com;
 Glenolden;Shopping;Discount Stores;Forman Mills;https://formanmills.com/stores/glenolden/;(484) 498-2390;140 N. MacDade Blvd, Glenolden, PA 19036
 Glenolden;Shopping;Electronics Stores;Aaron's;https://locations.aarons.com/us/pa/glenolden/326-n-chester-pike;(610) 583-3700;326 N Chester Pike, Glenolden, PA 19036
 Glenolden;Shopping;Electronics Stores;Verizon;https://stores.cellularsales.com/us/pa/glenolden/90-n-macdade-blvd;(484) 497-5500;90 N Macdade Blvd, Glenolden, PA 19036
-Glenolden;Shopping;Florists;Alfred Of Philadelphia Florist;https://alfredflowers.com;(610) 532-6200;1050 W Ashland Ave, Glenolden, PA 19036
+Glenolden;Services;Florists;Alfred Of Philadelphia Florist;https://alfredflowers.com;(610) 532-6200;1050 W Ashland Ave, Glenolden, PA 19036
 Glenolden;Shopping;Furniture Stores;Aaron's;https://locations.aarons.com/us/pa/glenolden/326-n-chester-pike;(610) 583-3700;326 N Chester Pike, Glenolden, PA 19036
 Glenolden;Shopping;Hardware Stores;Builders & Applicators Sales & Service;N/A;(610) 586-4455;520 Grobes Ave, Glenolden, PA 19036
 Glenolden;Shopping;Hardware Stores;Colonial Electric Supply;http://colonialelectricsupply.com;(610) 870-0160;601 W Oak Ln, Glenolden, PA 19036
@@ -2507,7 +2507,7 @@ Green Ridge;Services;Vehicle Services;Shell Rapid Lube;http://www.shell.us;N/A;3
 Green Ridge;Shopping;Beer Distributors;Aston Beverage Outlet;http://www.astonbeverage.com/;(610) 494-2404;411 Marianville Rd, Aston, PA 19014
 Green Ridge;Shopping;Clothes Stores;Little N Kute Boutique;https://littlenkuteboutique.com;(484) 494-9068;4728 Pennell Rd, Aston, PA 19014
 Green Ridge;Shopping;Clothes Stores;Star Army & Navy;http://starschooluniforms.com;(610) 497-5845;4800 Pennell Rd, Aston, PA 19014
-Green Ridge;Shopping;Florists;Wise Originals Florists & Gifts;https://www.wiseoriginals.com;(610) 494-3233;3541 Concord Rd, Aston, PA 19014
+Green Ridge;Services;Florists;Wise Originals Florists & Gifts;https://www.wiseoriginals.com;(610) 494-3233;3541 Concord Rd, Aston, PA 19014
 Green Ridge;Shopping;Furniture Stores;Timber Home Furnishings;http://www.timberhomefurnishings.com;(484) 832-5970;3510 Concord Rd, Media, PA 19063
 Green Ridge;Shopping;Gift Shops;Delco Balloons;N/A;(215) 490-0324;3411 Concord Rd, Aston, PA 19014
 Green Ridge;Shopping;Smoke Shops;Aston Smoke Shop;N/A;(484) 816-0541;4752 Pennell Rd, Aston, PA 19014
@@ -2876,7 +2876,7 @@ Havertown;Shopping;Convenience Stores;Swiss Farms;https://farmstores.com/store/s
 Havertown;Shopping;Convenience Stores;Wawa;https://www.wawa.com/store/265/ma/pa-havertown-1000-darby-road;(610) 446-9487;1000 E Darby Rd, Havertown, PA 19083
 Havertown;Shopping;Convenience Stores;Wawa;https://www.wawa.com/store/54/ma/pa-havertown-33-35-east-eagle-road;(484) 838-1454;33 E Eagle Rd, Havertown, PA 19083
 Havertown;Shopping;Discount Stores;Dollar or Two;N/A;(610) 853-6851;1305 W Chester Pike, Unit 20, Havertown, PA 19083
-Havertown;Shopping;Florists;Belvedere Flowers;http://www.belvedereflowers.com/;(610) 449-3880;28 W Eagle Rd, Ste 103, Havertown, PA 19083
+Havertown;Services;Florists;Belvedere Flowers;http://www.belvedereflowers.com/;(610) 449-3880;28 W Eagle Rd, Ste 103, Havertown, PA 19083
 Havertown;Shopping;Food Stores;Colonial Meat Market;http://www.orgcolonial.com;(610) 449-1775;1305 W Chester Pike, Havertown, PA 19083
 Havertown;Shopping;Food Stores;Giant;https://stores.giantfoodstores.com/pa/havertown/116-township-line-rd;(610) 449-1161;116 Township Line Rd, Havertown, PA 19083
 Havertown;Shopping;Furniture Stores;Catch My Thrift;N/A;(610) 299-6189;1225 E Darby Rd, Havertown, PA 19083
@@ -2991,7 +2991,7 @@ Lansdowne;Food & Drink;Restaurants;EC African American Restaurant;N/A;(484) 461-
 Lansdowne;Food & Drink;Restaurants;Leo's Breakfast & Lunch;https://www.facebook.com/profile.php?id=100093237615682;(484) 466-2071;36 E Baltimore Ave, Lansdowne, PA 19050
 Lansdowne;Food & Drink;Restaurants;Off the Hook Seafood & Grill;http://www.offthehookseafoodandgrill.com;(610) 284-4800;629 E Baltimore Ave, Lansdowne, PA 19050
 Lansdowne;Food & Drink;Restaurants;Sophusion Fine Dining;N/A;(484) 466-3692;24 N Lansdowne Ave, Lansdowne, PA 19050
-Lansdowne;Food & Drink;Saloons;Tipsy McStaggers Saloon;N/A;(610) 259-9143;2337 W Marshall Rd, Lansdowne, PA 19050
+Lansdowne;Food & Drink;Bars;Tipsy McStaggers Saloon;N/A;(610) 259-9143;2337 W Marshall Rd, Lansdowne, PA 19050
 Lansdowne;Food & Drink;Sandwich Shops;Tony Boys;N/A;(610) 626-9600;706 E Baltimore Ave, Lansdowne, PA 19050
 Lansdowne;Food & Drink;Seafood;Sun Seafood;N/A;(610) 623-5974;200 MacDade Blvd, Lansdowne, PA 19050
 Lansdowne;Food & Drink;Wine Bar;Glow and Puff;N/A;N/A;708 E Baltimore Ave, Lansdowne, PA 19050
@@ -3347,7 +3347,7 @@ Media;Indoor Activities;Dance Studios;Salsa In the Suburbs;http://www.salsainthe
 Media;Indoor Activities;Museums;DCHS Museum & Research Library;http://www.padelcohistory.org;(610) 359-0832;9 W Front St, Media, PA 19063
 Media;Indoor Activities;Museums;Middletown Township Historical Society;http://mthsdelco.org;(610) 316-5620;464 S Old Middletown Rd, Media, PA 19063
 Media;Indoor Activities;Museums;Pennsylvania Veterans Museum;http://www.paveteransmuseum.org;(610) 566-0788;12 E State St, Media, PA 19063
-Media;Indoor Activities;Playgrounds;Harmony Kids Playhouse;https://www.harmonykidsplayhouse.com;(215) 337-3348;7 W Baltimore Ave, Media, PA 19063
+Media;Indoor Activities;Indoor Playgrounds;Harmony Kids Playhouse;https://www.harmonykidsplayhouse.com;(215) 337-3348;7 W Baltimore Ave, Media, PA 19063
 Media;Indoor Activities;Theaters;The Media Theatre;http://www.mediatheatre.org/;(610) 891-0100;104 E State St, Media, PA 19063
 Media;Institutions;Cemetaries;Cumberland Cemetery;http://www.cumberlandcemetery.com;(610) 566-3105;447 N New Middletown Rd, Media, PA 19063
 Media;Institutions;Cemetaries;Delaware County SPCA Pet Cemetery;N/A;N/A;555 Sandy Bank Rd, Media, PA 19063
@@ -3566,8 +3566,8 @@ Media;Shopping;Bookstores;Bookish Notions;https://www.facebook.com/people/Bookis
 Media;Shopping;Convenience Stores;Wawa;https://www.wawa.com/locations/8114;(484) 838-7599;1260 N Providence Rd, Media, PA 19063
 Media;Shopping;Convenience Stores;Wawa;https://www.wawa.com/store/8082/ma/pa-media-435-e-baltimore-ave;(484) 445-4489;435 E Baltimore Ave, Media, PA 19063
 Media;Shopping;Convenience Stores;Wawa;https://www.wawa.com/store/8148/ma/pa-media-1073-baltimore-pike;(484) 546-8878;1073 W Baltimore Pike, Media, PA 19063
-Media;Shopping;Florists;Media Florist;http://www.mediaflorist.com;(610) 565-7470;441 E State St, Media, PA 19063
-Media;Shopping;Florists;SM Florist Media;https://www.smfloristmediapa.com/;(484) 443-0550;1315 N Providence Rd, Media, PA 19063
+Media;Services;Florists;Media Florist;http://www.mediaflorist.com;(610) 565-7470;441 E State St, Media, PA 19063
+Media;Services;Florists;SM Florist Media;https://www.smfloristmediapa.com/;(484) 443-0550;1315 N Providence Rd, Media, PA 19063
 Media;Shopping;Furniture Stores;At Home;https://www.athome.com/store/pennsylvania-media/;(610) 548-7738;1105 W Baltimore Pike, Media, PA 19063
 Media;Shopping;Furniture Stores;Eric T. Shephard American Antiques;http://www.philadelphiabuildingrestoration.com;(484) 442-8137;335 W State St, Media, PA 19063
 Media;Shopping;Garden;Tobin's Feed & Seed;https://www.facebook.com/people/Tates-Feed-Seed/61569538108821/?mibextid=wwXIfr&rdid=FtfAskssy4pP9yjG&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F15AEeXh1yx%2F%3Fmibextid%3DwwXIfr;(610) 459-2305;1176 N New Middletown Rd, Media, PA 19063
@@ -4416,7 +4416,6 @@ Springfield;Shopping;Clothes Stores;Lane Bryant;https://stores.lanebryant.com/pa
 Springfield;Shopping;Clothes Stores;Marshalls;https://www.marshalls.com/us/store/stores/Springfield-PA-19064/39/aboutstore;(610) 604-9825;400 S State Road, Springfield, PA 19064
 Springfield;Shopping;Clothes Stores;Men's Wearhouse;https://www.menswearhouse.com/store-locator/5211;(610) 328-5705;1001 Baltimore Pike, Springfield, PA 19064
 Springfield;Shopping;Clothes Stores;Old Navy;https://oldnavy.gap.com/stores/pa/springfield/oldnavy-6474.html;(610) 224-9933;400 S State Road, Springfield, PA 19064
-Springfield;Shopping;Computer Repair;BJ's Wholesale Club;https://www.bjs.com/cl/springfield/0056;(610) 544-9677;1260 Woodland Ave, Springfield, PA 19064
 Springfield;Shopping;Convenience Stores;Swiss Farms;http://www.swissfarms.com;(800) 726-3276;600 Baltimore Pike, Springfield, PA 19064
 Springfield;Shopping;Convenience Stores;Wawa;https://www.wawa.com/store/154/ma/pa-springfield-195-saxer-avenue;(610) 328-3909;195 Saxer Ave, Springfield, PA 19064
 Springfield;Shopping;Convenience Stores;Wawa;https://www.wawa.com/locations/8084;N/A;Baltimore Pike & E Leamy Ave, Springfield, PA 19070
@@ -4424,8 +4423,8 @@ Springfield;Shopping;Discount Stores;Dollar Tree;http://www.dollartree.com;(609)
 Springfield;Shopping;Discount Stores;Five Below;https://locations.fivebelow.com/pa/springfield/400-south-state-rd;(610) 328-7095;400 S State Road, Springfield, PA 19064
 Springfield;Shopping;Discount Stores;Five Below;https://locations.fivebelow.com/pa/springfield/965-baltimore-pike;(610) 544-4295;965 Baltimore Pike, Springfield, Pennsylvania, PA 19064
 Springfield;Shopping;Discount Stores;Skechers Warehouse Outlet;https://local.skechers.com/pa/springfield/1538/;(484) 282-2553;965 Baltimore Pike, Spc 1B, Springfield, PA 19064
-Springfield;Shopping;Florists;Brookside Florist;N/A;(610) 543-1600;11 N Brookside Rd, Springfield, PA 19064
-Springfield;Shopping;Florists;Polites Florist;http://www.politesflorist.com;(610) 544-1121;443 Baltimore Pike, Springfield, PA 19064
+Springfield;Services;Florists;Brookside Florist;N/A;(610) 543-1600;11 N Brookside Rd, Springfield, PA 19064
+Springfield;Services;Florists;Polites Florist;http://www.politesflorist.com;(610) 544-1121;443 Baltimore Pike, Springfield, PA 19064
 Springfield;Shopping;Food Stores;GIANT;https://stores.giantfoodstores.com/pa/springfield/721-w-sproul-rd;(610) 328-0029;721 W Sproul Rd, Springfield, PA 19064
 Springfield;Shopping;Food Stores;GIANT;https://stores.giantfoodstores.com/pa/springfield/950-baltimore-pike;(610) 604-1570;950 Baltimore Pike, Springfield, PA 19064
 Springfield;Shopping;Food Stores;GIANT Food Store;https://stores.giantfoodstores.com/pa/springfield/950-baltimore-pike;(610) 604-1570;950 Baltimore Pike, Springfield, PA 19064
@@ -5059,8 +5058,8 @@ Upper Darby;Shopping;Electronics Stores;Tech2Go;http://www.tech2gopa.com;(610) 3
 Upper Darby;Shopping;Electronics Stores;Total Wireless Store;https://totalwireless.com;(267) 886-0000;6944 Market St, Upper Darby, PA 19082
 Upper Darby;Shopping;Electronics Stores;Upper Darby Electronic;N/A;N/A;64 S 69th St, Upper Darby, PA 19082
 Upper Darby;Shopping;Electronics Stores;Zain Fashion & Electronics;N/A;(484) 461-7730;6922 Market St, Upper Darby, PA 19082
-Upper Darby;Shopping;Florists;Polites Florist;http://www.politesflorist.com;(610) 352-1717;42 Garrett Rd, Upper Darby, PA 19082
-Upper Darby;Shopping;Florists;Rainbow Flowers;N/A;(610) 734-2231;59 Garrett Rd, Upper Darby, PA 19082
+Upper Darby;Services;Florists;Polites Florist;http://www.politesflorist.com;(610) 352-1717;42 Garrett Rd, Upper Darby, PA 19082
+Upper Darby;Services;Florists;Rainbow Flowers;N/A;(610) 734-2231;59 Garrett Rd, Upper Darby, PA 19082
 Upper Darby;Shopping;Food Stores;7 Days Grocery;N/A;N/A;6920 Market St, Upper Darby, PA 19082
 Upper Darby;Shopping;Food Stores;Al Grocery Store;N/A;(610) 352-1522;794 Garrett Rd, Upper Darby, PA 19082
 Upper Darby;Shopping;Food Stores;Ashton Food Market;https://ashton-food-market.hub.biz;(610) 352-4045;121 Springton Rd, Upper Darby, PA 19082
@@ -5489,9 +5488,9 @@ Wayne;Shopping;Car Dealerships;Land Rover;https://www.landrovermainline.com/;(61
 Wayne;Shopping;Convenience Stores;7-Eleven;https://www.7-eleven.com/locations/pa/wayne/301-e-lancaster-ave.-40150;(610) 688-2188;301 E Lancaster Ave, Wayne, PA 19087
 Wayne;Shopping;Convenience Stores;Wawa;https://www.wawa.com/locations/0291;(610) 254-8537;151 Sugartown Rd, Wayne, PA 19087
 Wayne;Shopping;Convenience Stores;Wawa;https://www.wawa.com/store/257/ma/pa-wayne-215-west-lancaster-avenue;(610) 688-7313;215 W Lancaster Ave, Wayne, PA 19087
-Wayne;Shopping;Florists;Amaranth Florist;https://amaranthflorist.com/;(610) 667-4577;418 E Lancaster Ave, Wayne, PA 19087
-Wayne;Shopping;Florists;Market Fresh Flowers;http://www.lancastercountyfarmersmarket.com;(610) 964-0923;389 W Lancaster Ave, Wayne, PA 19087
-Wayne;Shopping;Florists;Valley Forge Flowers;http://www.valleyforgeflowers.com;(610) 687-5566;503 W Lancaster Ave, Wayne, PA 19087
+Wayne;Services;Florists;Amaranth Florist;https://amaranthflorist.com/;(610) 667-4577;418 E Lancaster Ave, Wayne, PA 19087
+Wayne;Services;Florists;Market Fresh Flowers;http://www.lancastercountyfarmersmarket.com;(610) 964-0923;389 W Lancaster Ave, Wayne, PA 19087
+Wayne;Services;Florists;Valley Forge Flowers;http://www.valleyforgeflowers.com;(610) 687-5566;503 W Lancaster Ave, Wayne, PA 19087
 Wayne;Shopping;Food Stores;Cornerstone;http://cornerstonewayne.com;(610) 688-1888;1 West Ave, Wayne, PA 19087
 Wayne;Shopping;Food Stores;GIANT;https://giantfoodstores.com;(610) 989-0781;550 E Lancaster Ave, Wayne, PA 19087
 Wayne;Shopping;Food Stores;GIANT Food Store;https://giantfoodstores.com;(610) 263-2002;550 E Lancaster Ave, Wayne, PA 19087
@@ -6027,10 +6026,10 @@ West Chester;Shopping;Electronics Stores;GameStop;https://www.gamestop.com/store
 West Chester;Shopping;Electronics Stores;Network Dynamics;N/A;(610) 701-0897;901 S Bolmar St, Bldg 1G, West Chester, PA 19382
 West Chester;Shopping;Electronics Stores;On The Go Mobile;N/A;(610) 918-1100;136 W Market St, West Chester, PA 19382
 West Chester;Shopping;Electronics Stores;Verizon;http://www.wirelessnation.com;(484) 947-5007;1480 W Chester Pike, West Chester, PA 19382
-West Chester;Shopping;Florists;Brenda's Flowers;N/A;(610) 822-4426;1165 Wilmington Pike, West Chester, PA 19382
-West Chester;Shopping;Florists;Dan's Flowers;N/A;(610) 431-3490;1419 W Chester Pike, West Chester, PA 19382
-West Chester;Shopping;Florists;Halladay Florist;N/A;(610) 692-5200;29 S Church St, West Chester, PA 19382
-West Chester;Shopping;Florists;West Chester Florist;https://www.westchesterpaflorist.com/;(484) 655-8335;131 S Bolmar St, West Chester, PA 19382
+West Chester;Services;Florists;Brenda's Flowers;N/A;(610) 822-4426;1165 Wilmington Pike, West Chester, PA 19382
+West Chester;Services;Florists;Dan's Flowers;N/A;(610) 431-3490;1419 W Chester Pike, West Chester, PA 19382
+West Chester;Services;Florists;Halladay Florist;N/A;(610) 692-5200;29 S Church St, West Chester, PA 19382
+West Chester;Services;Florists;West Chester Florist;https://www.westchesterpaflorist.com/;(484) 655-8335;131 S Bolmar St, West Chester, PA 19382
 West Chester;Shopping;Food Stores;Carlino's Makers & Purveyors Of Artisan Food;https://www.carlinosmarket.com/west-chester-location;(610) 649-4046;128 W Market St, West Chester, PA 19382
 West Chester;Shopping;Food Stores;GIANT;https://giantfoodstores.com;(610) 241-1867;1502 W Chester Pike, West Chester, PA 19382
 West Chester;Shopping;Food Stores;Ground Provisions;https://www.groundprovisionspa.com;(610) 355-4411;1388 Old Wilmington Pike, West Chester, PA 19382
@@ -6272,9 +6271,15 @@ Yeadon;Services;Post Offices;United States Postal Service;https://tools.usps.com
 Yeadon;Shopping;Beer Distributors;Brewers Outlet;N/A;(610) 622-5270;535 Church Ln, Lansdowne, PA 19050
 Yeadon;Shopping;Car Dealerships;AutoDelphia;N/A;(484) 469-4299;6300 Baltimore Ave, Lansdowne, PA 19050
 Yeadon;Shopping;Discount Stores;Dollar General;https://www.dollargeneral.com/store-directory/pa/yeadon/19028;(484) 496-8351;901 Cedar Ave, Lansdowne, PA 19050
-Yeadon;Shopping;Florists;Oshun Flowers Shop;http://www.oshunflowersshop.com;(484) 461-1217;708 Church Ln, Lansdowne, PA 19050
+Yeadon;Services;Florists;Oshun Flowers Shop;http://www.oshunflowersshop.com;(484) 461-1217;708 Church Ln, Lansdowne, PA 19050
 Yeadon;Shopping;Hobby Stores;Dollar Link;N/A;(610) 623-5300;539 Church Ln, Lansdowne, PA 19050
 Yeadon;Shopping;Jewelry Stores;Vsirius Store;http://vsirius.com/;N/A;630 Church Ln, Lansdowne, PA 19050
 Yeadon;Shopping;Smoke Shops;Hspeighteight Corp Three;N/A;(484) 466-2430;1100 Chester Ave, Lansdowne, PA 19050
 Yeadon;Shopping;Thrift Stores;Checkmate Gift and Thrift;N/A;(215) 688-8824;719 Church Ln, Lansdowne, PA 19050
+Glen Mills;Indoor Activities;Creative;Color Me Mine;http://glenmills.colormemine.com/;(610) 558-2300;100 Evergreen Dr, Glen Mills, PA 19342
+Ardmore;Indoor Activities;Creative;The Mudroom Studio;https://mudroomstudioardmore.com;(610) 896-3887;11 Station Rd, Ardmore, PA 19003
+Lansdowne;Indoor Activities;Creative;Main Line Pottery;N/A;(610) 394-0920;20 S Union Ave, Lansdowne, PA 19050
+West Chester;Indoor Activities;Creative;The Painted Plate;http://paintedplatepottery.com;(610) 738-0603;104 W Market St, West Chester, PA 19382
+West Chester;Indoor Activities;Creative;Clay Born Pottery;https://claybornpottery.com;(610) 431-7420;349 W Barnard St, West Chester, PA 19382
+Springfield;Indoor Activities;Creative;Busy Bees Pottery and Art Studio;http://busybeesart.com/springfield;(484) 472-6000;459 Baltimore Pike, Springfield, PA 19064
 
